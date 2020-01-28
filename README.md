@@ -1,5 +1,5 @@
 # Flask_webapp
-A simple web application built using flask that utilizes the NASA api to display an image everyday.
+A simple web application built using flask that utilizes the NASA api to display an astro image everyday.
 
 
 The web app utilizes the NASA api that could be got by registering in https://api.nasa.gov/ for free.
