@@ -4,8 +4,8 @@ import requests
 from flask import Flask, escape, request
 from flask import render_template
 
-# +os.getenv('MY_API_KEY')
-my_nasa_api_link = 'https://api.nasa.gov/planetary/apod?api_key=O7LkXYg0LDGFiNqR9BFSOkbLQAGvERRtv7T1a8h6'
+
+my_nasa_api_link = 'https://api.nasa.gov/planetary/apod?api_key=xxxxxxxxxxxxxxxxxxxxxxxxxxxx' # +os.getenv('MY_API_KEY')
 
 app = Flask(__name__)
 
